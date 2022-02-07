@@ -73,7 +73,7 @@ export const GenderNode = ({
       {shogun && 
         <>
           <rect
-            x="19"
+            x="24"
             y="5"
             fill="#D68E31"
             rx="15"
@@ -85,7 +85,7 @@ export const GenderNode = ({
             }}
           />
           <text 
-            x="20"
+            x="25"
             y="30"
             fill="black"
             strokeWidth={1}
