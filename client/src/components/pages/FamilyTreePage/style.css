@@ -1,0 +1,15 @@
+.page {
+  background-color: #3C645099;
+}
+
+.header {
+  height: 40px;
+  background-color: linen;
+  position: fixed;
+  right: 0;
+  border: 1px solid black;
+  font-family: "Yuji Syuku";
+  font-size: 30px;
+  padding: 8px;
+  margin: 8px;
+}

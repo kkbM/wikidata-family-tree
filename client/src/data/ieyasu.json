@@ -1,0 +1,4542 @@
+{
+  "name": "\u5fb3\u5ddd\u5bb6\u5eb7",
+  "attributes": {
+    "qid": "Q171977",
+    "depth": 0,
+    "shogun": true,
+    "gender": "\u7537\u6027"
+  },
+  "children": [
+    {
+      "name": "\u5fb3\u5ddd\u79c0\u5fe0",
+      "attributes": {
+        "qid": "Q314464",
+        "depth": 1,
+        "shogun": true,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5fb3\u5ddd\u5bb6\u5149",
+          "attributes": {
+            "qid": "Q314481",
+            "depth": 2,
+            "shogun": true,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5fb3\u5ddd\u7db1\u5409",
+              "attributes": {
+                "qid": "Q313745",
+                "depth": 3,
+                "shogun": true,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u9db4\u59eb",
+                  "attributes": {
+                    "qid": "Q5365056",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u5fb3\u5ddd\u5fb3\u677e",
+                  "attributes": {
+                    "qid": "Q7004625",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u5fb3\u5ddd\u5bb6\u7db1",
+              "attributes": {
+                "qid": "Q323422",
+                "depth": 3,
+                "shogun": true,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u5fb3\u5ddd\u7db1\u91cd",
+              "attributes": {
+                "qid": "Q7004484",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5fb3\u5ddd\u5bb6\u5ba3",
+                  "attributes": {
+                    "qid": "Q366734",
+                    "depth": 4,
+                    "shogun": true,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5fb3\u5ddd\u5bb6\u7d99",
+                      "attributes": {
+                        "qid": "Q366722",
+                        "depth": 5,
+                        "shogun": true,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u5927\u4e94\u90ce",
+                      "attributes": {
+                        "qid": "Q7004427",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u8c4a\u59eb",
+                      "attributes": {
+                        "qid": "Q7004676",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u864e\u5409",
+                      "attributes": {
+                        "qid": "Q7004729",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5922\u6708\u9662",
+                      "attributes": {
+                        "qid": "Q7005051",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u5bb6\u5343\u4ee3",
+                      "attributes": {
+                        "qid": "Q10296516",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u677e\u5e73\u6e05\u6b66",
+                  "attributes": {
+                    "qid": "Q7004236",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u970a\u4ed9\u9662",
+              "attributes": {
+                "qid": "Q7005290",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u5fb3\u5ddd\u9db4\u677e",
+              "attributes": {
+                "qid": "Q20041644",
+                "depth": 3
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u4fdd\u79d1\u6b63\u4e4b",
+          "attributes": {
+            "qid": "Q837236",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5a9b\u59eb",
+              "attributes": {
+                "qid": "Q27948151",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5fb3\u5ddd\u548c\u5b50",
+          "attributes": {
+            "qid": "Q911334",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u660e\u6b63\u5929\u7687",
+              "attributes": {
+                "qid": "Q120564",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u8cc0\u5b50\u5185\u89aa\u738b",
+              "attributes": {
+                "qid": "Q7142281",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u5973\u4e8c\u5bae",
+              "attributes": {
+                "qid": "Q11446285",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u662d\u5b50\u5185\u89aa\u738b",
+              "attributes": {
+                "qid": "Q11514165",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u9ad8\u4ec1\u89aa\u738b",
+              "attributes": {
+                "qid": "Q11668744",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5fb3\u5ddd\u5fe0\u9577",
+          "attributes": {
+            "qid": "Q1135700",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u5343\u59eb",
+          "attributes": {
+            "qid": "Q1147080",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5186\u76db\u9662",
+              "attributes": {
+                "qid": "Q10517461",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5929\u5d07\u9662",
+          "attributes": {
+            "qid": "Q7004583",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5ec9\u8c9e\u9662",
+              "attributes": {
+                "qid": "Q7140443",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u5149\u9577",
+              "attributes": {
+                "qid": "Q11104448",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u4e80\u59eb",
+              "attributes": {
+                "qid": "Q11370812",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u521d\u59eb",
+          "attributes": {
+            "qid": "Q7004785",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u73e0\u59eb",
+          "attributes": {
+            "qid": "Q11071642",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u524d\u7530\u5149\u9ad8",
+              "attributes": {
+                "qid": "Q6729106",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u524d\u7530\u7db1\u7d00",
+                  "attributes": {
+                    "qid": "Q841837",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u4e80\u9db4\u59eb",
+              "attributes": {
+                "qid": "Q11371041",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u524d\u7530\u5229\u6b21",
+              "attributes": {
+                "qid": "Q11397439",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u524d\u7530\u6b63\u752b",
+                  "attributes": {
+                    "qid": "Q11397628",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u524d\u7530\u5229\u8208",
+                      "attributes": {
+                        "qid": "Q11397453",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u524d\u7530\u5229\u9686",
+                      "attributes": {
+                        "qid": "Q11397465",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\u524d\u7530\u5229\u6cbb",
+              "attributes": {
+                "qid": "Q11397442",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u81ea\u660c\u9662",
+              "attributes": {
+                "qid": "Q11612770",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u5bcc\u59eb",
+              "attributes": {
+                "qid": "Q17230021",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5fb3\u5ddd\u9577\u4e38",
+          "attributes": {
+            "qid": "Q20041643",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u677e\u5e73\u5fe0\u8f1d",
+      "attributes": {
+        "qid": "Q837867",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u5fb3\u5ddd\u983c\u5ba3",
+      "attributes": {
+        "qid": "Q1045763",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5fb3\u5ddd\u5149\u8c9e",
+          "attributes": {
+            "qid": "Q1046230",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5fb3\u5ddd\u5409\u5b97",
+              "attributes": {
+                "qid": "Q319664",
+                "depth": 3,
+                "shogun": true,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5fb3\u5ddd\u5bb6\u91cd",
+                  "attributes": {
+                    "qid": "Q323443",
+                    "depth": 4,
+                    "shogun": true,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5fb3\u5ddd\u5bb6\u6cbb",
+                      "attributes": {
+                        "qid": "Q437518",
+                        "depth": 5,
+                        "shogun": true,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5fb3\u5ddd\u5bb6\u57fa",
+                          "attributes": {
+                            "qid": "Q7004151",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u91cd\u597d",
+                      "attributes": {
+                        "qid": "Q3530495",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u5fb3\u5ddd\u5b97\u6b66",
+                  "attributes": {
+                    "qid": "Q2439046",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u677e\u5e73\u5b9a\u4fe1",
+                      "attributes": {
+                        "qid": "Q284038",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u771f\u7530\u5e78\u8cab",
+                          "attributes": {
+                            "qid": "Q10729350",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u677e\u5e73\u5b9a\u6c38",
+                          "attributes": {
+                            "qid": "Q10729424",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u571f\u5c90\u983c\u4e4b",
+                              "attributes": {
+                                "qid": "Q10729398",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u571f\u5c90\u983c\u77e5",
+                                  "attributes": {
+                                    "qid": "Q11423419",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u571f\u5c90\u7ae0",
+                                      "attributes": {
+                                        "qid": "Q48764673",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u6cbb\u5bdf",
+                      "attributes": {
+                        "qid": "Q7813715",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u5b9a\u56fd",
+                      "attributes": {
+                        "qid": "Q10729363",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u7a2e\u59eb",
+                      "attributes": {
+                        "qid": "Q20041312",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u8129\u59eb",
+                      "attributes": {
+                        "qid": "Q108915724",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u5b9a\u59eb",
+                      "attributes": {
+                        "qid": "Q108915736",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u6dd1\u59eb",
+                      "attributes": {
+                        "qid": "Q108915742",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u4ef2\u59eb",
+                      "attributes": {
+                        "qid": "Q108915776",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u7530\u5b89\u7bc0\u5b50",
+                      "attributes": {
+                        "qid": "Q108915786",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u5fb3\u5ddd\u5b97\u6b66",
+                  "attributes": {
+                    "qid": "Q2439046",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5fb3\u5ddd\u5b97\u5c39",
+                  "attributes": {
+                    "qid": "Q3530490",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u677e\u5e73\u91cd\u660c",
+                      "attributes": {
+                        "qid": "Q6788062",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u4fdd\u59eb",
+                      "attributes": {
+                        "qid": "Q11245729",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u6cbb\u6e08",
+                      "attributes": {
+                        "qid": "Q11490290",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5fb3\u5ddd\u5bb6\u6589",
+                          "attributes": {
+                            "qid": "Q439717",
+                            "depth": 6,
+                            "shogun": true,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5fb3\u5ddd\u5bb6\u6176",
+                              "attributes": {
+                                "qid": "Q439675",
+                                "depth": 7,
+                                "shogun": true,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5ddd\u5bb6\u5b9a",
+                                  "attributes": {
+                                    "qid": "Q336383",
+                                    "depth": 8,
+                                    "shogun": true,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5fb3\u5ddd\u6589\u8358",
+                                  "attributes": {
+                                    "qid": "Q3530492",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6589\u5584",
+                                  "attributes": {
+                                    "qid": "Q6788045",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5fb3\u5ddd\u864e\u5343\u4ee3",
+                                  "attributes": {
+                                    "qid": "Q6992886",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5cf0\u59eb",
+                                  "attributes": {
+                                    "qid": "Q6998305",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u6689\u59eb",
+                                  "attributes": {
+                                    "qid": "Q7004531",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5fb3\u5ddd\u6176\u660c",
+                                  "attributes": {
+                                    "qid": "Q7005186",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5fb3\u5ddd\u6589\u660e",
+                                  "attributes": {
+                                    "qid": "Q11490284",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6589\u5ba3",
+                                  "attributes": {
+                                    "qid": "Q11530459",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6589\u6c11",
+                                  "attributes": {
+                                    "qid": "Q11530462",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6589\u826f",
+                                  "attributes": {
+                                    "qid": "Q11530463",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6589\u7701",
+                                  "attributes": {
+                                    "qid": "Q11530464",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u6c60\u7530\u6589\u8846",
+                                  "attributes": {
+                                    "qid": "Q11551950",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u8702\u9808\u8cc0\u6589\u88d5",
+                              "attributes": {
+                                "qid": "Q3125466",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u8702\u9808\u8cc0\u8302\u97f6",
+                                  "attributes": {
+                                    "qid": "Q656008",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u8702\u9808\u8cc0\u6b63\u97f6",
+                                      "attributes": {
+                                        "qid": "Q11625683",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u8702\u9808\u8cc0\u5e74\u5b50",
+                                          "attributes": {
+                                            "qid": "Q11625675",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u8702\u9808\u8cc0\u6b63\u6c0f",
+                                          "attributes": {
+                                            "qid": "Q11625684",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u6e29",
+                              "attributes": {
+                                "qid": "Q3336095",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u8358",
+                              "attributes": {
+                                "qid": "Q3530492",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6589\u5584",
+                              "attributes": {
+                                "qid": "Q6788045",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u864e\u5343\u4ee3",
+                              "attributes": {
+                                "qid": "Q6992886",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u5f4a",
+                              "attributes": {
+                                "qid": "Q6993155",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u9806",
+                              "attributes": {
+                                "qid": "Q6993203",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5ddd\u5bb6\u8302",
+                                  "attributes": {
+                                    "qid": "Q348466",
+                                    "depth": 8,
+                                    "shogun": true,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5fb7\u5ddd\u5bb6\u9054",
+                                      "attributes": {
+                                        "qid": "Q672741",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u5cf0\u59eb",
+                              "attributes": {
+                                "qid": "Q6998305",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u559c\u4ee3\u59eb",
+                              "attributes": {
+                                "qid": "Q11071637",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u660e",
+                              "attributes": {
+                                "qid": "Q11490284",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u672b\u59eb",
+                              "attributes": {
+                                "qid": "Q11519670",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6589\u5ba3",
+                              "attributes": {
+                                "qid": "Q11530459",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6589\u6c11",
+                              "attributes": {
+                                "qid": "Q11530462",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u677e\u5e73\u6589",
+                                  "attributes": {
+                                    "qid": "Q55407059",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6589\u826f",
+                              "attributes": {
+                                "qid": "Q11530463",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6589\u7701",
+                              "attributes": {
+                                "qid": "Q11530464",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6c60\u7530\u6589\u8846",
+                              "attributes": {
+                                "qid": "Q11551950",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6eb6\u59eb",
+                              "attributes": {
+                                "qid": "Q11564521",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6d45\u59eb",
+                              "attributes": {
+                                "qid": "Q16737166",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6e05\u6e5b\u9662",
+                              "attributes": {
+                                "qid": "Q17221001",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6566\u4e4b\u52a9",
+                              "attributes": {
+                                "qid": "Q18002854",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6c38\u59eb",
+                              "attributes": {
+                                "qid": "Q108824013",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u7dbe\u59eb",
+                              "attributes": {
+                                "qid": "Q108824026",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u656c\u4e4b\u52a9",
+                              "attributes": {
+                                "qid": "Q108824348",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u548c\u59eb",
+                              "attributes": {
+                                "qid": "Q108824392",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u5143\u59eb",
+                              "attributes": {
+                                "qid": "Q108824607",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6587\u59eb",
+                              "attributes": {
+                                "qid": "Q108824620",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u76db\u59eb",
+                              "attributes": {
+                                "qid": "Q108824630",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u6589\u5321",
+                          "attributes": {
+                            "qid": "Q3530491",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5fb3\u5ddd\u6176\u81e7",
+                              "attributes": {
+                                "qid": "Q612983",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u6625\u5dbd",
+                              "attributes": {
+                                "qid": "Q910802",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5ddd\u7fa9\u89aa",
+                                  "attributes": {
+                                    "qid": "Q6636943",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u6176\u6c11",
+                                  "attributes": {
+                                    "qid": "Q11530454",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u5fb3\u5ddd\u91cc\u5b50",
+                                  "attributes": {
+                                    "qid": "Q60987327",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5fb3\u5ddd\u559c\u7ff0",
+                                      "attributes": {
+                                        "qid": "Q51166560",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6176\u983c",
+                              "attributes": {
+                                "qid": "Q7813724",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb7\u5ddd\u5bb6\u9054",
+                                  "attributes": {
+                                    "qid": "Q672741",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5fb7\u5ddd\u5bb6\u6b63",
+                                      "attributes": {
+                                        "qid": "Q277171",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u5321\u6642",
+                              "attributes": {
+                                "qid": "Q11490259",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u4f4d",
+                              "attributes": {
+                                "qid": "Q11490283",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6176\u58fd",
+                              "attributes": {
+                                "qid": "Q11490280",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u9410\u59eb",
+                              "attributes": {
+                                "qid": "Q11490300",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u8fd1\u59eb",
+                              "attributes": {
+                                "qid": "Q110664712",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u9445\u59eb",
+                              "attributes": {
+                                "qid": "Q110664922",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6b3d\u59eb",
+                              "attributes": {
+                                "qid": "Q110740807",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u7336\u59eb",
+                              "attributes": {
+                                "qid": "Q110740936",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u611b\u59eb",
+                              "attributes": {
+                                "qid": "Q110741426",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u6589\u6566",
+                          "attributes": {
+                            "qid": "Q7813722",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u793c",
+                              "attributes": {
+                                "qid": "Q11490285",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u6cbb\u56fd",
+                          "attributes": {
+                            "qid": "Q11490288",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5fb3\u5ddd\u6589\u671d",
+                              "attributes": {
+                                "qid": "Q3336100",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u677e\u5e73\u7fa9\u5c45",
+                          "attributes": {
+                            "qid": "Q11530567",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u9ed2\u7530\u6589\u9686",
+                          "attributes": {
+                            "qid": "Q11678606",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u677e\u5e73\u91cd\u5bcc",
+                      "attributes": {
+                        "qid": "Q11530619",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u9ed2\u7530\u6cbb\u4e4b",
+                      "attributes": {
+                        "qid": "Q11678625",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\u5fb3\u5ddd\u7db1\u6559",
+              "attributes": {
+                "qid": "Q6992849",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u5fb3\u5ddd\u983c\u8077",
+              "attributes": {
+                "qid": "Q6993725",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u5fb3\u5ddd\u5149\u59eb",
+              "attributes": {
+                "qid": "Q109678554",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5fb3\u5ddd\u5149\u8c9e",
+          "attributes": {
+            "qid": "Q1046230",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u7d14",
+          "attributes": {
+            "qid": "Q6993673",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5fb3\u5ddd\u5b97\u76f4",
+              "attributes": {
+                "qid": "Q6993442",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5fb3\u5ddd\u5b97\u5c06",
+                  "attributes": {
+                    "qid": "Q3530488",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u963f\u90e8\u6b63\u7531",
+                      "attributes": {
+                        "qid": "Q3331296",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5b89\u85e4\u9053\u7d00",
+                      "attributes": {
+                        "qid": "Q6992502",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u91cd\u502b",
+                      "attributes": {
+                        "qid": "Q6992715",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5fb3\u5ddd\u6cbb\u5b9d",
+                          "attributes": {
+                            "qid": "Q6993350",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u61ff\u59eb",
+                          "attributes": {
+                            "qid": "Q108915981",
+                            "depth": 6,
+                            "gender": "\u5973\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u4e1e\u59eb",
+                          "attributes": {
+                            "qid": "Q108915992",
+                            "depth": 6,
+                            "gender": "\u5973\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u65b9\u59eb",
+                          "attributes": {
+                            "qid": "Q109190470",
+                            "depth": 6,
+                            "gender": "\u5973\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u677e\u5e73\u5fe0\u529f",
+                      "attributes": {
+                        "qid": "Q6992776",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u5fe0\u548c",
+                      "attributes": {
+                        "qid": "Q6992816",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5185\u85e4\u5b66\u6587",
+                      "attributes": {
+                        "qid": "Q6993119",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u4e09\u6d66\u70ba\u8129",
+                      "attributes": {
+                        "qid": "Q6993401",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u983c\u8b19",
+                      "attributes": {
+                        "qid": "Q6993606",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u677e\u5e73\u983c\u5553",
+                          "attributes": {
+                            "qid": "Q11530632",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u677e\u5e73\u983c\u5b66",
+                              "attributes": {
+                                "qid": "Q11530631",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5ddd\u8302\u627f",
+                                  "attributes": {
+                                    "qid": "Q6993473",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u983c\u82f1",
+                                  "attributes": {
+                                    "qid": "Q11530653",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u5fb3\u5ddd\u5343\u9593\u59eb",
+                      "attributes": {
+                        "qid": "Q109191792",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u96f2\u677e\u9662",
+                  "attributes": {
+                    "qid": "Q6992553",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u5185\u85e4\u8c9e\u5e79",
+                  "attributes": {
+                    "qid": "Q6992919",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5185\u85e4\u653f\u504f",
+                      "attributes": {
+                        "qid": "Q8514931",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u5185\u85e4\u653f\u5e83",
+                      "attributes": {
+                        "qid": "Q8514969",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u677e\u5e73\u4fe1\u6709",
+                  "attributes": {
+                    "qid": "Q6993255",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5fb3\u5ddd\u6cbb\u8c9e",
+                  "attributes": {
+                    "qid": "Q6993326",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6842\u9999\u9662",
+                  "attributes": {
+                    "qid": "Q11536919",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u6c60\u7530\u91cd\u5bdb",
+                      "attributes": {
+                        "qid": "Q11552173",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u6c60\u7530\u4ef2\u96c5",
+                          "attributes": {
+                            "qid": "Q11551699",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u6c60\u7530\u6cbb\u9053",
+                          "attributes": {
+                            "qid": "Q11551994",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5f25\u59eb",
+                              "attributes": {
+                                "qid": "Q11162524",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5cf6\u6d25\u6589\u5f6c",
+                                  "attributes": {
+                                    "qid": "Q1143856",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5cf6\u6d25\u6690\u5b50",
+                                      "attributes": {
+                                        "qid": "Q55522037",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u6c60\u7530\u6589\u7a37",
+                              "attributes": {
+                                "qid": "Q11551951",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u6c60\u7530\u6589\u8a13",
+                                  "attributes": {
+                                    "qid": "Q11551953",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u6c60\u7530\u6589\u90a6",
+                              "attributes": {
+                                "qid": "Q11551954",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6c60\u7530\u5e78",
+                              "attributes": {
+                                "qid": "Q108916028",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6c60\u7530\u4e09\u6d25",
+                              "attributes": {
+                                "qid": "Q108916044",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u6c60\u7530\u9053\u4e00",
+                              "attributes": {
+                                "qid": "Q109326712",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u6c60\u7530\u9053\u4e00\u306e\u5a18",
+                                  "attributes": {
+                                    "qid": "Q109326782",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u6c60\u7530\u6f84\u6642",
+                          "attributes": {
+                            "qid": "Q11552029",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u983c\u6e21",
+              "attributes": {
+                "qid": "Q11530642",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u983c\u8def",
+              "attributes": {
+                "qid": "Q11530659",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u983c\u96c4",
+              "attributes": {
+                "qid": "Q11530664",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u6e21\u8fba\u606d\u7db1",
+              "attributes": {
+                "qid": "Q11562272",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u6709\u99ac\u6c0f\u4e45",
+                  "attributes": {
+                    "qid": "Q11516798",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6e21\u8fba\u5247\u7db1",
+                  "attributes": {
+                    "qid": "Q11562099",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6e21\u8fba\u8c4a\u7db1",
+                  "attributes": {
+                    "qid": "Q11562552",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u7d50\u57ce\u79c0\u5eb7",
+      "attributes": {
+        "qid": "Q1130929",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u677e\u5e73\u5fe0\u76f4",
+          "attributes": {
+            "qid": "Q839124",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5ec9\u8c9e\u9662",
+              "attributes": {
+                "qid": "Q7140443",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u5149\u9577",
+              "attributes": {
+                "qid": "Q11104448",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u4e80\u59eb",
+              "attributes": {
+                "qid": "Q11370812",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u6c38\u898b\u9577\u826f",
+              "attributes": {
+                "qid": "Q11550346",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u6c38\u898b\u9577\u983c",
+              "attributes": {
+                "qid": "Q11550347",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u52d8\u5b50",
+              "attributes": {
+                "qid": "Q108896894",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u5fe0\u660c",
+          "attributes": {
+            "qid": "Q2814515",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u677e\u5e73\u660c\u89aa",
+              "attributes": {
+                "qid": "Q6788037",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u5149\u901a",
+              "attributes": {
+                "qid": "Q11530368",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u660c\u52dd",
+              "attributes": {
+                "qid": "Q11530468",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u677e\u5e73\u7db1\u660c",
+                  "attributes": {
+                    "qid": "Q6788074",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u672c\u591a\u9577\u6559",
+                      "attributes": {
+                        "qid": "Q11520095",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u745e\u5fdc\u9662",
+                      "attributes": {
+                        "qid": "Q109200598",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u677e\u5e73\u5409\u90a6",
+                  "attributes": {
+                    "qid": "Q6788080",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u7167\u5149\u9662",
+                      "attributes": {
+                        "qid": "Q108093290",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u677e\u5e73\u5b97\u660c",
+                  "attributes": {
+                    "qid": "Q10816738",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u9694\u82b3\u9662",
+                      "attributes": {
+                        "qid": "Q108093418",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u677e\u5e73\u660c\u52dd\u306e\u5a18",
+                  "attributes": {
+                    "qid": "Q108887622",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u4e07\u59eb",
+              "attributes": {
+                "qid": "Q109923884",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u56fd\u59eb",
+              "attributes": {
+                "qid": "Q109924101",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u98db\u9ce5\u4e95\u96c5\u8c4a",
+                  "attributes": {
+                    "qid": "Q109923770",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u5343\u59eb",
+              "attributes": {
+                "qid": "Q110653000",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u6bdb\u5229\u5409\u5c31",
+                  "attributes": {
+                    "qid": "Q11547586",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u76f4\u653f",
+          "attributes": {
+            "qid": "Q5324802",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u677e\u5e73\u76f4\u4e18",
+              "attributes": {
+                "qid": "Q11530514",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u7d30\u5ddd\u521d",
+                  "attributes": {
+                    "qid": "Q110155903",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u7db1\u9686",
+              "attributes": {
+                "qid": "Q11530562",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u8fd1\u6804",
+              "attributes": {
+                "qid": "Q11530610",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u9686\u653f",
+              "attributes": {
+                "qid": "Q11530628",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u99d2\u59eb",
+              "attributes": {
+                "qid": "Q108140338",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u5b9d\u660e\u9662",
+              "attributes": {
+                "qid": "Q108140470",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u76f4\u57fa",
+          "attributes": {
+            "qid": "Q5324923",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u677e\u5e73\u76f4\u77e9",
+              "attributes": {
+                "qid": "Q399755",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u677e\u5e73\u77e5\u6e05",
+                  "attributes": {
+                    "qid": "Q8515140",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u677e\u5e73\u660e\u77e9",
+                      "attributes": {
+                        "qid": "Q11239149",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u677e\u5e73\u671d\u77e9",
+                          "attributes": {
+                            "qid": "Q11530472",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u571f\u4e95\u5229\u5efa",
+                              "attributes": {
+                                "qid": "Q10524398",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u677e\u5e73\u76f4\u6052",
+                              "attributes": {
+                                "qid": "Q11530530",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u677e\u5e73\u6589\u5178",
+                                  "attributes": {
+                                    "qid": "Q11530457",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u677e\u5e73\u5178\u5247",
+                                      "attributes": {
+                                        "qid": "Q11530372",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u677e\u5e73\u57fa\u5247",
+                                          "attributes": {
+                                            "qid": "Q11530385",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u4e45\u5b50",
+                                          "attributes": {
+                                            "qid": "Q108684308",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u516b\u91cd",
+                                          "attributes": {
+                                            "qid": "Q108684410",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u76f4\u6e29",
+                                  "attributes": {
+                                    "qid": "Q11530541",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u677e\u5e73\u925a",
+                                      "attributes": {
+                                        "qid": "Q108823336",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u77e5\u8c4a",
+                                  "attributes": {
+                                    "qid": "Q11530555",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u53ef\u5bdb",
+                                  "attributes": {
+                                    "qid": "Q96273680",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u517c\u5b50",
+                                  "attributes": {
+                                    "qid": "Q108684241",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u78ef\u5b50",
+                                  "attributes": {
+                                    "qid": "Q108821775",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u7d79",
+                                  "attributes": {
+                                    "qid": "Q108821776",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u5b63\u9060\u59eb",
+                                  "attributes": {
+                                    "qid": "Q108821783",
+                                    "depth": 8,
+                                    "gender": "\u5973\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u677e\u5e73\u559c\u4f50\u59eb",
+                              "attributes": {
+                                "qid": "Q108823361",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u76f4\u826f",
+          "attributes": {
+            "qid": "Q5324971",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u559c\u4f50\u59eb",
+          "attributes": {
+            "qid": "Q5325011",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u6bdb\u5229\u7db1\u5e83",
+              "attributes": {
+                "qid": "Q11547682",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u6bdb\u5229\u5143\u91cd",
+                  "attributes": {
+                    "qid": "Q11547566",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u5409\u5c31",
+                  "attributes": {
+                    "qid": "Q11547586",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u5409\u5e83",
+                  "attributes": {
+                    "qid": "Q11547588",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u826f",
+                  "attributes": {
+                    "qid": "Q109669623",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u54c1",
+                  "attributes": {
+                    "qid": "Q109669816",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u52d8",
+                  "attributes": {
+                    "qid": "Q109670102",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u6bdb\u5229\u5e78",
+                  "attributes": {
+                    "qid": "Q109670897",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u5927\u6c5f\u7af9\u5b50",
+              "attributes": {
+                "qid": "Q110653558",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u9df9\u53f8\u517c\u7199",
+                  "attributes": {
+                    "qid": "Q942133",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u9df9\u53f8\u57fa\u5b50",
+                      "attributes": {
+                        "qid": "Q110596625",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u897f\u5712\u5bfa\u5b9f\u8f14",
+                  "attributes": {
+                    "qid": "Q7140495",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u897f\u5712\u5bfa\u81f4\u5b63",
+                      "attributes": {
+                        "qid": "Q11627465",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u4eca\u51fa\u5ddd\u8aa0\u5b63",
+                          "attributes": {
+                            "qid": "Q7223028",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u897f\u5712\u5bfa\u516c\u6643",
+                          "attributes": {
+                            "qid": "Q7223186",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5fb3\u5927\u5bfa\u5b9f\u7956",
+                              "attributes": {
+                                "qid": "Q7223039",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5927\u5bfa\u516c\u8fea",
+                                  "attributes": {
+                                    "qid": "Q11489578",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u897f\u5712\u5bfa\u8cde\u5b63",
+                              "attributes": {
+                                "qid": "Q11627467",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u677e\u5e73\u5fe0\u5409",
+      "attributes": {
+        "qid": "Q1133215",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u6b66\u7530\u4fe1\u5409",
+      "attributes": {
+        "qid": "Q1133267",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u5fb3\u5ddd\u983c\u623f",
+      "attributes": {
+        "qid": "Q1133680",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5fb3\u5ddd\u5149\u5700",
+          "attributes": {
+            "qid": "Q1194944",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u677e\u5e73\u983c\u5e38",
+              "attributes": {
+                "qid": "Q11530633",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u91cd",
+          "attributes": {
+            "qid": "Q3299364",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5fb3\u5ddd\u7db1\u689d",
+              "attributes": {
+                "qid": "Q6997897",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5fb3\u5ddd\u5409\u5b5a",
+                  "attributes": {
+                    "qid": "Q11490261",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u5fb3\u5ddd\u7db1\u65b9",
+              "attributes": {
+                "qid": "Q6997950",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u983c\u4faf",
+              "attributes": {
+                "qid": "Q11530629",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u677e\u5e73\u983c\u8c4a",
+                  "attributes": {
+                    "qid": "Q11530657",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5fb3\u5ddd\u5b97\u582f",
+                      "attributes": {
+                        "qid": "Q6998366",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5fb3\u5ddd\u5b97\u7ff0",
+                          "attributes": {
+                            "qid": "Q843627",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u677e\u5e73\u983c\u6551",
+                              "attributes": {
+                                "qid": "Q6638123",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u4e2d\u5c71\u4fe1\u656c",
+                              "attributes": {
+                                "qid": "Q6998037",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u6cbb\u4fdd",
+                              "attributes": {
+                                "qid": "Q6998193",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5fb3\u5ddd\u6cbb\u7d00",
+                                  "attributes": {
+                                    "qid": "Q728162",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5fb3\u5ddd\u6589\u662d",
+                                      "attributes": {
+                                        "qid": "Q1323770",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u5fb3\u5ddd\u6176\u559c",
+                                          "attributes": {
+                                            "qid": "Q287657",
+                                            "depth": 10,
+                                            "shogun": true,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u559c\u5fb3",
+                                          "attributes": {
+                                            "qid": "Q930282",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5fb3\u5ddd\u662d\u6b66",
+                                          "attributes": {
+                                            "qid": "Q3530485",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u662d\u8a13",
+                                          "attributes": {
+                                            "qid": "Q6637910",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u983c\u4e4b",
+                                          "attributes": {
+                                            "qid": "Q6638511",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u5fe0\u548c",
+                                          "attributes": {
+                                            "qid": "Q6788070",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u6c60\u7530\u8302\u653f",
+                                          "attributes": {
+                                            "qid": "Q6997367",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u6c60\u7530\u6176\u5fb3",
+                                          "attributes": {
+                                            "qid": "Q6997412",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u559c\u9023\u5ddd\u7e04\u6c0f",
+                                          "attributes": {
+                                            "qid": "Q6997436",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5fb3\u5ddd\u8c9e\u5b50",
+                                          "attributes": {
+                                            "qid": "Q6997477",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u6b66\u8070",
+                                          "attributes": {
+                                            "qid": "Q6997690",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u571f\u5c4b\u6319\u76f4",
+                                          "attributes": {
+                                            "qid": "Q6997808",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u76f4\u4faf",
+                                          "attributes": {
+                                            "qid": "Q6997990",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5fb3\u5ddd\u6176\u7be4",
+                                          "attributes": {
+                                            "qid": "Q6998470",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u677e\u5e73\u983c\u7b60",
+                                      "attributes": {
+                                        "qid": "Q6638084",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u5fb3\u5ddd\u5f93\u5b50",
+                                      "attributes": {
+                                        "qid": "Q6997513",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u4e8c\u6761\u6589\u656c",
+                                          "attributes": {
+                                            "qid": "Q3073063",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u4e8c\u6761\u5e83\u5b50",
+                                          "attributes": {
+                                            "qid": "Q7141957",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u5fb3\u5ddd\u6589\u8129",
+                                      "attributes": {
+                                        "qid": "Q6998088",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u677e\u5e73\u983c\u6055",
+                                      "attributes": {
+                                        "qid": "Q11530635",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u5fb3\u5ddd\u6e05\u5b50",
+                                      "attributes": {
+                                        "qid": "Q109245022",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u571f\u5c4b\u5f66\u76f4",
+                                  "attributes": {
+                                    "qid": "Q6997853",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u677e\u5e73\u7fa9\u548c",
+                                  "attributes": {
+                                    "qid": "Q11530566",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u677e\u5e73\u5bb9\u656c",
+                                      "attributes": {
+                                        "qid": "Q846200",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u677e\u5e73\u7fa9\u5efa",
+                                      "attributes": {
+                                        "qid": "Q11530568",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u677e\u5e73\u5bb9\u4fdd",
+                                          "attributes": {
+                                            "qid": "Q569441",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5fb3\u5ddd\u8302\u5fb3",
+                                          "attributes": {
+                                            "qid": "Q946037",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u5b9a\u656c",
+                                          "attributes": {
+                                            "qid": "Q3299354",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5fb3\u5ddd\u6176\u52dd",
+                                          "attributes": {
+                                            "qid": "Q3530497",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u6b66\u6210",
+                                          "attributes": {
+                                            "qid": "Q11530499",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u7fa9\u52c7",
+                                          "attributes": {
+                                            "qid": "Q11530565",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u9060\u85e4\u80e4\u660c",
+                                      "attributes": {
+                                        "qid": "Q11642336",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u677e\u5e73\u5ba3",
+                                      "attributes": {
+                                        "qid": "Q108094748",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u5fb3\u5ddd\u7ff0\u5b50",
+                              "attributes": {
+                                "qid": "Q96200296",
+                                "depth": 7,
+                                "gender": "\u5973\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u4e5d\u6761\u5c1a\u5fe0",
+                                  "attributes": {
+                                    "qid": "Q3135384",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u9df9\u53f8\u7155\u901a",
+                                      "attributes": {
+                                        "qid": "Q221969",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u9df9\u53f8\u4fe1\u8f14",
+                                          "attributes": {
+                                            "qid": "Q3073348",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u9df9\u53f8\u4fe1\u7199",
+                                          "attributes": {
+                                            "qid": "Q7140714",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u4e0a\u6749\u623f\u5b50",
+                                          "attributes": {
+                                            "qid": "Q106638898",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5712\u4fe1\u6df3",
+                                          "attributes": {
+                                            "qid": "Q108861254",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u82f1\u7167\u7687\u592a\u540e",
+                                      "attributes": {
+                                        "qid": "Q862582",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u4e5d\u6761\u9053\u5b5d",
+                                      "attributes": {
+                                        "qid": "Q1062364",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u8c9e\u660e\u7687\u540e",
+                                          "attributes": {
+                                            "qid": "Q1197656",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5927\u8c37\u7c4c\u5b50",
+                                          "attributes": {
+                                            "qid": "Q7139850",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u83ca\u9ebf\u738b\u5983\u7bc4\u5b50",
+                                          "attributes": {
+                                            "qid": "Q7139926",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u4e5d\u6761\u9053\u5b9f",
+                                          "attributes": {
+                                            "qid": "Q40032983",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u4e5d\u6761\u826f\u653f",
+                                          "attributes": {
+                                            "qid": "Q109454151",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u4e5d\u6761\u826f\u81f4",
+                                          "attributes": {
+                                            "qid": "Q109454163",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u4e8c\u6761\u57fa\u5f18",
+                                      "attributes": {
+                                        "qid": "Q7034591",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u4e8c\u6761\u539a\u57fa",
+                                          "attributes": {
+                                            "qid": "Q677209",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u677e\u5712\u5c1a\u5609",
+                                      "attributes": {
+                                        "qid": "Q108861194",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u677e\u5712\u6cbb\u5fe0",
+                                          "attributes": {
+                                            "qid": "Q108861198",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u4e5d\u6761\u5c1a\u5fe0",
+                                  "attributes": {
+                                    "qid": "Q3135384",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u4e8c\u6761\u6589\u4fe1",
+                                  "attributes": {
+                                    "qid": "Q3341486",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u4e8c\u6761\u6589\u656c",
+                                      "attributes": {
+                                        "qid": "Q3073063",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u4e8c\u6761\u6b63\u9ebf",
+                                          "attributes": {
+                                            "qid": "Q3341471",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u4e8c\u6761\u5e83\u5b50",
+                                      "attributes": {
+                                        "qid": "Q7141957",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u4e5d\u6761\u8f14\u55e3",
+                                  "attributes": {
+                                    "qid": "Q6442375",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5fb3\u5ddd\u5b97\u7ff0",
+                          "attributes": {
+                            "qid": "Q843627",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u677e\u5e73\u983c\u9806",
+                          "attributes": {
+                            "qid": "Q6638562",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u677e\u5e73\u983c\u6cbb",
+                      "attributes": {
+                        "qid": "Q11530641",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u6625\u59eb",
+                      "attributes": {
+                        "qid": "Q110168769",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u767b\u8302",
+                      "attributes": {
+                        "qid": "Q110168908",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u516b\u5341",
+                      "attributes": {
+                        "qid": "Q110169007",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u983c\u8c4a\u306e\u5a18",
+                      "attributes": {
+                        "qid": "Q110169261",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u91d1\u59eb",
+                      "attributes": {
+                        "qid": "Q110640766",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u5347\u59eb",
+                      "attributes": {
+                        "qid": "Q110643094",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u983c\u82b3",
+              "attributes": {
+                "qid": "Q11530652",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u8702\u9808\u8cc0\u5b97\u93ae",
+                  "attributes": {
+                    "qid": "Q3125462",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u8702\u9808\u8cc0\u81f3\u592e",
+                  "attributes": {
+                    "qid": "Q3125473",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u8702\u9808\u8cc0\u81f3\u592e",
+                  "attributes": {
+                    "qid": "Q3125473",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u677e\u5e73\u983c\u7155",
+                  "attributes": {
+                    "qid": "Q11530645",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u8702\u9808\u8cc0\u5b97\u93ae",
+                      "attributes": {
+                        "qid": "Q3125462",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u8702\u9808\u8cc0\u81f3\u592e",
+                      "attributes": {
+                        "qid": "Q3125473",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u8702\u9808\u8cc0\u81f3\u592e",
+                      "attributes": {
+                        "qid": "Q3125473",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u677e\u5e73\u983c\u6853",
+                      "attributes": {
+                        "qid": "Q11530640",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u96c4",
+          "attributes": {
+            "qid": "Q6638076",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u9686",
+          "attributes": {
+            "qid": "Q6638189",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u5143",
+          "attributes": {
+            "qid": "Q6638460",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u9234\u6728\u91cd\u7fa9",
+          "attributes": {
+            "qid": "Q6997553",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u6e05\u6cf0\u9662",
+          "attributes": {
+            "qid": "Q6997589",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u524d\u7530\u7db1\u7d00",
+              "attributes": {
+                "qid": "Q841837",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u524d\u7530\u5409\u5fb3",
+                  "attributes": {
+                    "qid": "Q6729131",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u524d\u7530\u91cd\u9756",
+                      "attributes": {
+                        "qid": "Q8189350",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u677e\u5e73\u983c\u5229",
+          "attributes": {
+            "qid": "Q110625152",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u4e07",
+          "attributes": {
+            "qid": "Q110629904",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u7389\u5cef\u6e05\u56e0\u5c3c",
+          "attributes": {
+            "qid": "Q110630155",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u5229\u6d25",
+          "attributes": {
+            "qid": "Q110630458",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u5e03\u91cc",
+          "attributes": {
+            "qid": "Q110630556",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u6885\u5b50",
+          "attributes": {
+            "qid": "Q110632022",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u72ac\u59eb",
+          "attributes": {
+            "qid": "Q110633541",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        },
+        {
+          "name": "\u5fb3\u5ddd\u5e02",
+          "attributes": {
+            "qid": "Q110635705",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u9152\u4e95\u934b\u59eb",
+              "attributes": {
+                "qid": "Q110635811",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u5fb3\u5ddd\u7fa9\u76f4",
+      "attributes": {
+        "qid": "Q1136186",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5fb3\u5ddd\u5149\u53cb",
+          "attributes": {
+            "qid": "Q843245",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u677e\u5e73\u4fe1\u5eb7",
+      "attributes": {
+        "qid": "Q1188704",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5999\u9ad8\u9662",
+          "attributes": {
+            "qid": "Q7005005",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u672c\u591a\u5fe0\u523b",
+              "attributes": {
+                "qid": "Q5892750",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u5186\u7167\u9662",
+              "attributes": {
+                "qid": "Q10517436",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u5ba3",
+                  "attributes": {
+                    "qid": "Q10856584",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u6b21",
+                  "attributes": {
+                    "qid": "Q10859958",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5c0f\u7b20\u539f\u9577\u7ae0",
+                      "attributes": {
+                        "qid": "Q10859971",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u9577\u5186",
+                          "attributes": {
+                            "qid": "Q10856583",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u9577\u8208",
+                              "attributes": {
+                                "qid": "Q10859976",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u9577\u9095",
+                              "attributes": {
+                                "qid": "Q11463408",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u9577\u80e4",
+                          "attributes": {
+                            "qid": "Q10859974",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u9577\u5ba5",
+                          "attributes": {
+                            "qid": "Q108456336",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u9577\u4e18",
+                              "attributes": {
+                                "qid": "Q108456388",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5c0f\u7b20\u539f\u9577\u5eb8",
+                                  "attributes": {
+                                    "qid": "Q11463419",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u9577\u606d",
+                                      "attributes": {
+                                        "qid": "Q8515344",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u5c0f\u7b20\u539f\u9577\u582f",
+                                          "attributes": {
+                                            "qid": "Q8515349",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u6885",
+                          "attributes": {
+                            "qid": "Q108488166",
+                            "depth": 6,
+                            "gender": "\u5973\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u6e90\u59eb",
+                          "attributes": {
+                            "qid": "Q108488344",
+                            "depth": 6,
+                            "gender": "\u5973\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5897\u5c71\u6b63\u6b66",
+                              "attributes": {
+                                "qid": "Q11429193",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u5c0f\u7b20\u539f\u9577\u52dd",
+                      "attributes": {
+                        "qid": "Q11463413",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u5e02\u677e\u59eb",
+                  "attributes": {
+                    "qid": "Q10860014",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u9f62\u662d\u9662",
+                  "attributes": {
+                    "qid": "Q10860067",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u5b89",
+                  "attributes": {
+                    "qid": "Q11463417",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5c0f\u7b20\u539f\u59eb\u677e",
+                      "attributes": {
+                        "qid": "Q108488823",
+                        "depth": 5,
+                        "gender": "\u5973\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u5609\u79b0",
+                  "attributes": {
+                    "qid": "Q108496198",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u6804\u5bff\u9662",
+              "attributes": {
+                "qid": "Q10518081",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u767b\u4e45\u59eb",
+          "attributes": {
+            "qid": "Q10856577",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          },
+          "children": [
+            {
+              "name": "\u5c0f\u7b20\u539f\u5fe0\u771f",
+              "attributes": {
+                "qid": "Q7079842",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5c0f\u7b20\u539f\u5fe0\u96c4",
+                  "attributes": {
+                    "qid": "Q10856547",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u5c0f\u7b20\u539f\u5fe0\u57fa",
+                      "attributes": {
+                        "qid": "Q10856535",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u5fe0\u7dcf",
+                          "attributes": {
+                            "qid": "Q10856543",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u5fe0\u8c9e",
+                          "attributes": {
+                            "qid": "Q10856546",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u9577\u9035",
+                          "attributes": {
+                            "qid": "Q10859981",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5927\u5ca1\u5fe0\u8207",
+                              "attributes": {
+                                "qid": "Q7222592",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u5fe0\u82d7",
+                              "attributes": {
+                                "qid": "Q10856545",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u9577\u70ba",
+                              "attributes": {
+                                "qid": "Q10859963",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5c0f\u7b20\u539f\u5fe0\u56fa",
+                                  "attributes": {
+                                    "qid": "Q10856534",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u5fe0\u5fb4",
+                                      "attributes": {
+                                        "qid": "Q10856538",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u5c0f\u7b20\u539f\u5fe0\u5fb4\u306e\u5a18",
+                                          "attributes": {
+                                            "qid": "Q108094056",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u9234\u59eb",
+                                      "attributes": {
+                                        "qid": "Q109186280",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u5c0f\u7b20\u539f\u9577\u798e",
+                                  "attributes": {
+                                    "qid": "Q10859970",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u9577\u6b66",
+                                      "attributes": {
+                                        "qid": "Q10859959",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u5c0f\u7b20\u539f\u5fe0\u5e79",
+                                          "attributes": {
+                                            "qid": "Q10856537",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u5c0f\u7b20\u539f\u68df\u656c",
+                                          "attributes": {
+                                            "qid": "Q64782627",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u5c0f\u7b20\u539f\u8c9e\u901a",
+                      "attributes": {
+                        "qid": "Q10856567",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u5b9a\u653f",
+                          "attributes": {
+                            "qid": "Q10856531",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u5c0f\u7b20\u539f\u8c9e\u9855",
+                          "attributes": {
+                            "qid": "Q10856571",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u5c0f\u7b20\u539f\u8c9e\u6e29",
+                              "attributes": {
+                                "qid": "Q10856565",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u5c0f\u7b20\u539f\u8c9e\u54f2",
+                                  "attributes": {
+                                    "qid": "Q10856558",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u5fe0\u5609",
+                                      "attributes": {
+                                        "qid": "Q10856533",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u8c9e\u5be7",
+                                      "attributes": {
+                                        "qid": "Q10856561",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u5c0f\u7b20\u539f\u8c9e\u8b19",
+                                      "attributes": {
+                                        "qid": "Q10856566",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u771f\u65b9",
+                  "attributes": {
+                    "qid": "Q10856554",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u5ba3",
+                  "attributes": {
+                    "qid": "Q10856584",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5e02\u677e\u59eb",
+                  "attributes": {
+                    "qid": "Q10860014",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u5b89",
+                  "attributes": {
+                    "qid": "Q11463417",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u5c0f\u7b20\u539f\u5609\u79b0",
+                  "attributes": {
+                    "qid": "Q108496198",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u5c0f\u7b20\u539f\u5fe0\u8129",
+              "attributes": {
+                "qid": "Q10856544",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u5c0f\u7b20\u539f\u9577\u6b21",
+                  "attributes": {
+                    "qid": "Q10859958",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                },
+                {
+                  "name": "\u9f62\u662d\u9662",
+                  "attributes": {
+                    "qid": "Q10860067",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u656c\u53f0\u9662",
+              "attributes": {
+                "qid": "Q10959928",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u4e09\u4fdd\u59eb",
+                  "attributes": {
+                    "qid": "Q11354388",
+                    "depth": 4,
+                    "gender": "\u5973\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u6c60\u7530\u4ef2\u653f",
+                      "attributes": {
+                        "qid": "Q11551695",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u6c60\u7530\u5149\u4ef2",
+                      "attributes": {
+                        "qid": "Q11551720",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\u7763\u59eb",
+      "attributes": {
+        "qid": "Q3276029",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      },
+      "children": [
+        {
+          "name": "\u6c60\u7530\u5fe0\u96c4",
+          "attributes": {
+            "qid": "Q11551880",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u6c60\u7530\u4ef2\u653f",
+              "attributes": {
+                "qid": "Q11551695",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u6c60\u7530\u5149\u4ef2",
+              "attributes": {
+                "qid": "Q11551720",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u6c60\u7530\u4ef2\u6f84",
+                  "attributes": {
+                    "qid": "Q11551696",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u6c60\u7530\u4ef2\u592e",
+                      "attributes": {
+                        "qid": "Q11551691",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u6c60\u7530\u5eb8\u7188",
+                          "attributes": {
+                            "qid": "Q11551857",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u6c60\u7530\u5409\u6cf0",
+                      "attributes": {
+                        "qid": "Q11551758",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u6c60\u7530\u5b97\u6cf0",
+                          "attributes": {
+                            "qid": "Q11551810",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u6c60\u7530\u91cd\u5bdb",
+                              "attributes": {
+                                "qid": "Q11552173",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u6c60\u7530\u5b9a\u8ce2",
+                      "attributes": {
+                        "qid": "Q11551815",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u6c60\u7530\u6f84\u53e4",
+                      "attributes": {
+                        "qid": "Q11552026",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "\u5317\u6761\u4e07\u59eb",
+          "attributes": {
+            "qid": "Q109657364",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u677e\u5e73\u677e\u5343\u4ee3",
+      "attributes": {
+        "qid": "Q4489936",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u677e\u5e73\u4ed9\u5343\u4ee3",
+      "attributes": {
+        "qid": "Q4489943",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u4e80\u59eb",
+      "attributes": {
+        "qid": "Q4489959",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5965\u5e73\u5fe0\u653f",
+          "attributes": {
+            "qid": "Q3350116",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u677e\u5e73\u5fe0\u660e",
+          "attributes": {
+            "qid": "Q6788072",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          },
+          "children": [
+            {
+              "name": "\u677e\u5e73\u5fe0\u5f18",
+              "attributes": {
+                "qid": "Q11239138",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u6e05\u9053",
+              "attributes": {
+                "qid": "Q11530508",
+                "depth": 3,
+                "gender": "\u7537\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u725f\u5229\u59eb",
+              "attributes": {
+                "qid": "Q109327428",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              },
+              "children": [
+                {
+                  "name": "\u934b\u5cf6\u5149\u8302",
+                  "attributes": {
+                    "qid": "Q3080602",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  },
+                  "children": [
+                    {
+                      "name": "\u934b\u5cf6\u5409\u8302",
+                      "attributes": {
+                        "qid": "Q11650637",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    },
+                    {
+                      "name": "\u934b\u5cf6\u5b97\u8302",
+                      "attributes": {
+                        "qid": "Q11650644",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      },
+                      "children": [
+                        {
+                          "name": "\u934b\u5cf6\u5b97\u6559",
+                          "attributes": {
+                            "qid": "Q11650641",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        },
+                        {
+                          "name": "\u934b\u5cf6\u6cbb\u8302",
+                          "attributes": {
+                            "qid": "Q11650657",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          },
+                          "children": [
+                            {
+                              "name": "\u934b\u5cf6\u76f4\u4e0e",
+                              "attributes": {
+                                "qid": "Q251150",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u934b\u5cf6\u76f4\u7d00",
+                                  "attributes": {
+                                    "qid": "Q6956824",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u677e\u5e73\u4e57\u9577",
+                                      "attributes": {
+                                        "qid": "Q51574508",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u677e\u5e73\u4e57\u6587",
+                                          "attributes": {
+                                            "qid": "Q108858945",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u4e57\u6b66",
+                                          "attributes": {
+                                            "qid": "Q108860320",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5712\u4e57\u5149",
+                                          "attributes": {
+                                            "qid": "Q108860461",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u934b\u5cf6\u6589\u76f4",
+                              "attributes": {
+                                "qid": "Q11650651",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              },
+                              "children": [
+                                {
+                                  "name": "\u934b\u5cf6\u76f4\u6b63",
+                                  "attributes": {
+                                    "qid": "Q3334677",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u934b\u5cf6\u76f4\u5927",
+                                      "attributes": {
+                                        "qid": "Q5357768",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u68a8\u672c\u4f0a\u90fd\u5b50",
+                                          "attributes": {
+                                            "qid": "Q10855990",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u677e\u5e73\u4fe1\u5b50",
+                                          "attributes": {
+                                            "qid": "Q11530329",
+                                            "depth": 10,
+                                            "gender": "\u5973\u6027"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "\u934b\u5cf6\u76f4\u864e",
+                                      "attributes": {
+                                        "qid": "Q6956825",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u934b\u5cf6\u76f4\u67d4",
+                                      "attributes": {
+                                        "qid": "Q11650678",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u8449\u5ba4\u76f4\u8eac",
+                                          "attributes": {
+                                            "qid": "Q55523198",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        },
+                                        {
+                                          "name": "\u934b\u5cf6\u76f4\u548c",
+                                          "attributes": {
+                                            "qid": "Q109453915",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u934b\u5cf6\u76f4\u5b5d",
+                                  "attributes": {
+                                    "qid": "Q11650667",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u934b\u5cf6\u76f4\u6c38",
+                                  "attributes": {
+                                    "qid": "Q11650680",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  },
+                                  "children": [
+                                    {
+                                      "name": "\u934b\u5cf6\u76f4\u5f6c",
+                                      "attributes": {
+                                        "qid": "Q705147",
+                                        "depth": 9,
+                                        "gender": "\u7537\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u552f\u8a3c\u9662",
+                                      "attributes": {
+                                        "qid": "Q108858480",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      }
+                                    },
+                                    {
+                                      "name": "\u934b\u5cf6\u8b01\u5973",
+                                      "attributes": {
+                                        "qid": "Q108858635",
+                                        "depth": 9,
+                                        "gender": "\u5973\u6027"
+                                      },
+                                      "children": [
+                                        {
+                                          "name": "\u677e\u5e73\u4e57\u9577",
+                                          "attributes": {
+                                            "qid": "Q51574508",
+                                            "depth": 10,
+                                            "gender": "\u7537\u6027"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "\u934b\u5cf6\u76f4\u8ce2",
+                                  "attributes": {
+                                    "qid": "Q11650690",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                },
+                                {
+                                  "name": "\u934b\u5cf6\u8302\u771f",
+                                  "attributes": {
+                                    "qid": "Q11650701",
+                                    "depth": 8,
+                                    "gender": "\u7537\u6027"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "name": "\u934b\u5cf6\u76f4\u5f5c",
+                              "attributes": {
+                                "qid": "Q11650670",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            },
+                            {
+                              "name": "\u934b\u5cf6\u76f4\u9053",
+                              "attributes": {
+                                "qid": "Q11650689",
+                                "depth": 7,
+                                "gender": "\u7537\u6027"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "name": "\u934b\u5cf6\u91cd\u8302",
+                          "attributes": {
+                            "qid": "Q11650709",
+                            "depth": 6,
+                            "gender": "\u7537\u6027"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "name": "\u934b\u5cf6\u7db1\u8302",
+                      "attributes": {
+                        "qid": "Q11650693",
+                        "depth": 5,
+                        "gender": "\u7537\u6027"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "\u934b\u5cf6\u76f4\u4e4b",
+                  "attributes": {
+                    "qid": "Q6956831",
+                    "depth": 4,
+                    "gender": "\u7537\u6027"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "\u677e\u5e73\u6885\u5b50",
+              "attributes": {
+                "qid": "Q110249723",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            },
+            {
+              "name": "\u677e\u5e73\u901a\u5b50",
+              "attributes": {
+                "qid": "Q110249745",
+                "depth": 3,
+                "gender": "\u5973\u6027"
+              }
+            }
+          ]
+        },
+        {
+          "name": "\u5965\u5e73\u5bb6\u660c",
+          "attributes": {
+            "qid": "Q11445767",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u677e\u5e73\u5bb6\u6cbb",
+          "attributes": {
+            "qid": "Q11530405",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u5965\u5e73\u4fe1\u660c\u306e\u5a18",
+          "attributes": {
+            "qid": "Q108824241",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u6b63\u6e05\u9662",
+      "attributes": {
+        "qid": "Q4489975",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      },
+      "children": [
+        {
+          "name": "\u84b2\u751f\u5fe0\u90f7",
+          "attributes": {
+            "qid": "Q8513818",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u84b2\u751f\u5fe0\u77e5",
+          "attributes": {
+            "qid": "Q8513824",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        },
+        {
+          "name": "\u5d07\u6cd5\u9662",
+          "attributes": {
+            "qid": "Q11477094",
+            "depth": 2,
+            "gender": "\u5973\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u6b63\u6e05\u9662",
+      "attributes": {
+        "qid": "Q4489975",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      }
+    },
+    {
+      "name": "\u5e02\u59eb",
+      "attributes": {
+        "qid": "Q5367216",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      }
+    },
+    {
+      "name": "\u6e80\u5929\u59eb",
+      "attributes": {
+        "qid": "Q10345259",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      },
+      "children": [
+        {
+          "name": "\u5927\u9053\u5bfa\u76f4\u79c0",
+          "attributes": {
+            "qid": "Q11439375",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u5510\u6885\u9662",
+      "attributes": {
+        "qid": "Q11418573",
+        "depth": 1,
+        "gender": "\u5973\u6027"
+      },
+      "children": [
+        {
+          "name": "\u4e95\u4f0a\u76f4\u52dd",
+          "attributes": {
+            "qid": "Q5994900",
+            "depth": 2,
+            "gender": "\u7537\u6027"
+          }
+        }
+      ]
+    },
+    {
+      "name": "\u6c38\u898b\u8c9e\u611b",
+      "attributes": {
+        "qid": "Q11550345",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    },
+    {
+      "name": "\u9234\u6728\u4e00\u8535",
+      "attributes": {
+        "qid": "Q11648492",
+        "depth": 1,
+        "gender": "\u7537\u6027"
+      }
+    }
+  ]
+}

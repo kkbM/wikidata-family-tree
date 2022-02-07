@@ -1,0 +1,1 @@
+export { Template as FamilyTreePage } from "./template"
